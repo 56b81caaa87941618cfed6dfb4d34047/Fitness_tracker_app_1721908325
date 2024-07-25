@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Nine' button to be located within the app?\", \"option1\": \"On the home screen\", \"option2\": \"In the workout section\"}, {\"question 2\": \"What function should the 'Nine' button perform when pressed?\", \"option1\": \"Start a new workout session\", \"option2\": \"Display workout history\"}], \"input_token_count\": 290, \"output_token_count\": 88, \"time_taken\": \"0:00:02.151809\"}",
+        "message_id": "guest25072024115254",
+        "timestamp": "25072024115258",
+        "component_file_name": "simple_footer_component_1721908326",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Noted, adding a button with text \"Nine\".",
         "message_id": "guest25072024115254",
