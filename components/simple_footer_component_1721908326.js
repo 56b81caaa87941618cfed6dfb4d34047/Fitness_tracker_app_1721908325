@@ -16,7 +16,14 @@ Vue.component("simple_footer_component_1721908326", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         FitForce is designed to help you achieve your fitness goals. Our app provides personalized workout plans, nutrition tracking, and motivation to keep you on track. Join our community of fitness enthusiasts and unlock your full potential today!
+                        FitForce is designed to help you achieve your fitness goals. Our app provides personalized workout plans, nutrition tracking, and motivation to keep you on track. Join our community of fitness enthusiasts and unlock your full potential today!
                     </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Nine
+                    </button>
+                </div>
                 </div>
             </div>
         </footer> 
